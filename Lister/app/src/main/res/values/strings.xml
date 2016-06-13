@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lister</string>
+
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_sweep">Delete Sweep</string>
+
+    <string name="task_name">Name</string>
+    <string name="due_date">Due Date</string>
+    <string name="task_status">Status</string>
+    <string name="task_notes">Notes</string>
+    <string name="save">Save</string>
+
+    <string-array name="status_array">
+        <item>TO-DO</item>
+        <item>COMPLETED</item>
+    </string-array>
+</resources>
